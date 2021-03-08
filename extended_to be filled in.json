@@ -6,8 +6,8 @@
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "London, England",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "FUPMorg",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -15,45 +15,43 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "FUPM is run by an international team of bespectacled dorks with over 50 years of combined experience in the fields of systems design, engineering, and information technology. One dude even has a PhD in Engineering Sciences, so you know they geek-out hardcore and probably don’t have girlfriends.",
+            "server": "With barebones *nix installs and load-balanced, cloud-based servers, our expertly-configured nodes insure uptime, reliability and performance, so that blocks will be pwnd, and massive gains of bigly proportions will be had for everyone contributing to the pool.",
+            "company": "fuckupayme.org (FUPM) is a Cardano staking pool for ADA crypto tokens and cryptocurrency. Cardano is a blockchain and distributed ledger technology (DLT) platform developed by IOHK / IOG. Stake your ADA, earn rewards by validating the mainnet, and decentralize all the things. FUPM is dedicated to defending an open and free Internet. 5% of pool profits will be donated to the EFF every epoch."
         },
-        "rss": "http(s) url to valid RSS feed"
+        "rss": ""
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "a30c522e7612339f6a5591a0e452ed800f7b24770bdb6d9ffa0c247c"
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": ""
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": ""
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "greed",
                 "type": "relay",
                 "key": "example_get_own_on_adapools.org/connect"
             },
             "1": {
-                "name": "relay 2 usa",
+                "name": "sloth",
                 "type": "relay",
                 "key": "example_get_own_on_adapools.org/connect"
             },
             "2": {
-                "name": "block producer home",
+                "name": "wrath",
                 "type": "bp",
                 "key": "example_get_own_on_adapools.org/connect"
             }
