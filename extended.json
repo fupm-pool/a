@@ -1,6 +1,4 @@
-
 {
-    
     "info": {
         "url_png_icon_64x64": "https://fupm-pool.github.io/FUPM_Logo_solo_64_64.png",
         "url_png_logo": "https://fupm-pool.github.io/FUPM_Logo_solo.png",
@@ -8,20 +6,17 @@
         "social": {
             "twitter_handle": "FUPMorg"
         },
-        
         "about": {
             "me": "FUPM is run by an international team of bespectacled dorks with over 50 years of combined experience in the fields of systems design, engineering, and information technology. One dude even has a PhD in Engineering Sciences, so you know they geek-out hardcore and probably don’t have girlfriends.",
             "server": "With barebones *nix installs and load-balanced, cloud-based servers, our expertly-configured nodes insure uptime, reliability and performance, so that blocks will be pwnd, and massive gains of bigly proportions will be had for everyone contributing to the pool.",
             "company": "fuckupayme.org (FUPM) is a Cardano staking pool for ADA crypto tokens and cryptocurrency. Cardano is a blockchain and distributed ledger technology (DLT) platform developed by IOHK / IOG. Stake your ADA, earn rewards by validating the mainnet, and decentralize all the things. FUPM is dedicated to defending an open and free Internet. 5% of pool profits will be donated to the EFF every epoch."
         },
-        "rss": ""
-    },
     "my-pool-ids": {
         "0": "a30c522e7612339f6a5591a0e452ed800f7b24770bdb6d9ffa0c247c"
     },
     "when-satured-then-recommend": {
         "0": "pool16kus5xvdysgmtjp0hhlwt72tsm0yn2zcn0a8wg9emc6c75lxvmc"
-    },
+          }
        }
     }
 }
